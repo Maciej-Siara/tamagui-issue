@@ -47,8 +47,8 @@ export function HomeScreen() {
               zIndex={200000}
               modal
               dismissOnSnapToBottom
-              snapPoints={[50]}
-              // snapPointsMode="fit"
+              // snapPoints={[50]}
+              snapPointsMode="fit"
             >
               <Sheet.Frame padding="$4" gap="$4">
                 <Adapt.Contents />
